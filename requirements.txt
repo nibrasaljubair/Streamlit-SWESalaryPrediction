@@ -78,7 +78,7 @@ rfc3339_validator==0.1.4
 rfc3986_validator==0.1.1
 rfc3987==1.3.8
 s3fs==2024.10.0
-scikit_learn==1.4.0
+scikit_learn==1.3.0
 scipy==1.14.1
 scipy_doctest==1.4
 sets==0.3.2
