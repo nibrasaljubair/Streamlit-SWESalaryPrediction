@@ -3,6 +3,6 @@ wheel
 streamlit
 pandas
 matplotlib
-numpy>=1.21,<1.26
+numpy==1.26.0
 scikit-learn==1.3.0
 plotly
